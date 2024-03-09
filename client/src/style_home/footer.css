@@ -1,0 +1,16 @@
+/* Footer styles */
+.footer {
+    background: linear-gradient(to right, #67d1e4, #e443ce); /* Adjust the colors as needed */
+    color: #0f0f0f; /* Change the text color as needed */
+    padding: 20px 0; /* Adjust the padding as needed */
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #fff; /* Change the link color as needed */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  

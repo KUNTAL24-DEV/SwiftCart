@@ -1,0 +1,47 @@
+/* Header styles */
+.navbar {
+    background-color: #333; /* Change the background color as needed */
+}
+  
+  .navbar-brand {
+    color: #cf13e0; /* Change the text color as needed */
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    color: #3124ee; /* Change the text color as needed */   
+    font-size: 1.0rem; /* Change the font size as needed */
+    margin: 0 2px; /* Adjust the margin as needed */
+    transition: color 0.3s; /* Add transition effect */
+  }
+  
+  .nav-link:hover {
+    color: #35e012; /* Change the hover color as needed */
+  }
+  
+  .dropdown-menu {
+    background-color: #333; /* Change the background color as needed */
+  }
+  
+  .dropdown-item {
+    color: #fff; /* Change the text color as needed */
+  }
+  
+  .dropdown-item:hover {
+    background-color: #555; /* Change the hover background color as needed */
+  }
+  
+  /* Search input */
+  .search-input {
+    width: 250px; /* Adjust the width as needed */
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+  
+  /* Cart badge */
+  .badge {
+    background-color: #ffc107; /* Change the background color as needed */
+    color: #333; /* Change the text color as needed */
+    font-size: 0.8rem;
+    margin-left: 5px; /* Adjust the margin as needed */
+  }
+  

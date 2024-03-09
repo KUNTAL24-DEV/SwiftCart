@@ -1,0 +1,57 @@
+/* CSS */
+
+/* Container styles */
+.container {
+    margin-top: 20px;
+  }
+  
+  
+  /* Product details styles */
+  .product-details {
+    margin-top: 20px;
+  }
+  
+  .product-details h1 {
+    text-align: center;
+  }
+  
+  .product-details h6 {
+    margin-bottom: 10px;
+  }
+  
+  .product-details button {
+    margin-top: 10px;
+  }
+  
+  /* Related products styles */
+  .similar-products {
+    margin-top: 20px;
+  }
+  
+  .similar-products h6 {
+    margin-bottom: 10px;
+  }
+  
+  .similar-products .card {
+    width: 18rem;
+    margin: 10px;
+  }
+  
+  .similar-products .card-img-top {
+    height: 200px; /* Adjust the height as needed */
+  }
+  
+  .similar-products .card-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .similar-products .card-text {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .similar-products button {
+    margin-top: 10px;
+  }
+  
